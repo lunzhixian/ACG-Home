@@ -1,5 +1,5 @@
 {
-    "title": "我是网站的标题~",
+    "title": "你好啊~",
     "theme": {
         "theme": "defdark",
         "displayName": "ACG-Home",
@@ -19,13 +19,13 @@
         }
     },
     "masterInfo": {
-        "name": "<站长名字>",
+        "name": "lun",
         "avatar": "./assets/images/avatar.png",
         "website": "https://hic.top",
         "socialLink": {
             "link": {
                 "bilibili": "https://space.bilibili.com/675279872",
-                "github": "https://github.com/ChengCheng0v0",
+                "github": "https://github.com/lunzhixian",
                 "email": "javascript:showEmail()"
             },
             "icon": {
@@ -42,8 +42,8 @@
     "icp": {
         "info": {
             "code": {
-                "china": "X-ICP备XXXXXXXXXX号",
-                "moegov": "萌ICP备XXXXXXXX号"
+                "china": "",
+                "moegov": ""
             },
             "link": {
                 "china": "https://beian.miit.gov.cn",
